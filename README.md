@@ -7,4 +7,4 @@ Kullanılan Teknolojiler: Windows Forms Application(.Net Framework), ADO.Net, MS
 Kullanılan Dil: C#
 
 Geliştirilen Projenin Gereksinim Dökümanı: 
-[proje.pdf](https://github.com/osman28tr/Otel_Otomasyon_Proje/files/11511218/proje.pdf)
+[Otel_Otomasyon_Projesi.pdf](https://github.com/osman28tr/Otel_Otomasyon_Proje/files/11511369/Otel_Otomasyon_Projesi.pdf)
