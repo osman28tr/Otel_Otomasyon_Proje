@@ -93,9 +93,8 @@ numarasına göre sıralanır.</li>
 
 <h3>6. Kullanılan Teknolojiler</h3>
 Windows Forms Application(.Net Framework), ADO.Net, MSSQL
-
-<br>
+<br><br>
 <b>Not: </b>Kullandığım Veritabanı Dosyası: OtelRezervasyon.bak
 
-<b>Not: </b>Proje Mstfucrr ile beraber geliştirilmiştir, detaylı commit bilgilerine https://github.com/Mstfucrr/Otel_Rezervasyon adresinden bakabilirsiniz.
+<b>Not: </b>Proje Mstfucrr ile beraber geliştirilmiştir, projenin detaylı commit bilgilerine ve güncel haline https://github.com/Mstfucrr/Otel_Rezervasyon adresinden bakabilirsiniz.
 
